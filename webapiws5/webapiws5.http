@@ -1,0 +1,6 @@
+@webapiws5_HostAddress = http://localhost:5245
+
+GET {{webapiws5_HostAddress}}/medications/
+Accept: application/json
+
+###
